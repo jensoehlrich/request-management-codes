@@ -1,0 +1,15 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Software",
+        "description": "Requests related to software issues or installations."
+      },
+      {
+        "id": 2,
+        "name": "Hardware",
+        "description": "Requests related to hardware issues or installations."
+      }
+    ]
+  }
+  
